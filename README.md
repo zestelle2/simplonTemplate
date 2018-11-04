@@ -1,4 +1,4 @@
 # simplonTemplate
 
 Refaire en css et Html ce template : 
-https://github.com/simplonco/htmlcss-challenge-integration/blob/master/template.png
+![alt text](https://raw.githubusercontent.com/simplonco/htmlcss-challenge-integration/master/template.png)
